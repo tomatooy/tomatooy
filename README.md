@@ -19,7 +19,8 @@
     <h4>
       Website: Shopster
     </h4>
-    <img src="https://drive.google.com/file/d/1TAwYxrHDgmhrOBRZzOXKqa1kCcvs71tR/view?usp=sharing" alt="cssa_web1"/>
+   <a href="https://ibb.co/z6YdRS5"><img src="https://i.ibb.co/LNWKtCP/Screen-Shot-2022-11-26-at-2-02-42-PM.png" alt="Screen-Shot-2022-11-26-at-2-02-42-PM" border="0"></a>
+<a href="https://ibb.co/F7v4y9T"><img src="https://i.ibb.co/ZTszF3D/Screen-Shot-2022-11-26-at-2-03-16-PM.png" alt="Screen-Shot-2022-11-26-at-2-03-16-PM" border="0"></a>
   </li>
   <li>
     <h4>
