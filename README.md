@@ -10,23 +10,21 @@
 </h3>
 <ul>
   <li>
-    <h4>
-      Website: CSSA student Association at UGA
-    </h4>
+    <a href="https://github.com/tomatooy/CSSAUGA">Website: CSSA student Association at UGA</a>
     <img src="https://i.ibb.co/b77yQZb/Screen-Shot-2022-12-24-at-6-49-44-PM.png" alt="Screen-Shot-2022-12-24-at-6-49-44-PM" border="0">
-    <img src="https://i.ibb.co/ZHrfmJz/Screen-Shot-2022-12-24-at-6-50-32-PM.png" alt="Screen-Shot-2022-12-24-at-6-50-32-PM" border="0">
   </li>
   <li>
-    <h4>
-      Website: Shopster
-    </h4>
+    <a href="https://github.com/tomatooy/Shopster-main">Website: Shopster</a>
     <img src="https://i.ibb.co/LNWKtCP/Screen-Shot-2022-11-26-at-2-02-42-PM.png" alt="Screen-Shot-2022-11-26-at-2-02-42-PM" border="0">
   </li>
   <li>
-    <h4>
-      Andriod App: SkipNSit
-    </h4>
-    <img src="" alt="cssa_web1"/>
+    <a href="https://github.com/tomatooy/myCinema">Website: myCinema</a>
+  </li>
+  <li>
+    <a href="https://github.com/tomatooy/shareRide"> Andriod App: ShareRide</a>
+  </li>
+  <li>
+    <a href="https://github.com/tomatooy/SkipNSit">Andriod App: SkipNSit</a>
   </li>
 </ul>
 <p align="left">
