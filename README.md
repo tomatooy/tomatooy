@@ -19,7 +19,7 @@
     <h4>
       Website: Shopster
     </h4>
-    <img src="" alt="cssa_web1"/>
+    <img src="https://drive.google.com/file/d/1TAwYxrHDgmhrOBRZzOXKqa1kCcvs71tR/view?usp=sharing" alt="cssa_web1"/>
   </li>
   <li>
     <h4>
