@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I am Johnny Ouyang</h1>
-<h3 align="center">A passionate frontend developer from China, Now live in Atlanta Georgia</h3>
 
 <h3 align="left">Education: University of Georgia B.S in Computer Science</h3>
 <p align="left">
