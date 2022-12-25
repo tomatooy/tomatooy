@@ -10,21 +10,21 @@
 </h3>
 <ul>
   <li>
-    <a href="https://github.com/tomatooy/CSSAUGA">Website: CSSA student Association at UGA</a>
+    <a href="https://github.com/tomatooy/CSSAUGA"><h5>Website: CSSA student Association at UGA</h5></a>
     <img src="https://i.ibb.co/b77yQZb/Screen-Shot-2022-12-24-at-6-49-44-PM.png" alt="Screen-Shot-2022-12-24-at-6-49-44-PM" border="0">
   </li>
   <li>
-    <a href="https://github.com/tomatooy/Shopster-main">Website: Shopster</a>
+    <a href="https://github.com/tomatooy/Shopster-main"><h5>Website: Shopster</h5></a>
     <img src="https://i.ibb.co/LNWKtCP/Screen-Shot-2022-11-26-at-2-02-42-PM.png" alt="Screen-Shot-2022-11-26-at-2-02-42-PM" border="0">
   </li>
   <li>
-    <a href="https://github.com/tomatooy/myCinema">Website: myCinema</a>
+    <a href="https://github.com/tomatooy/myCinema"><h5>Website: myCinema</h5></a>
   </li>
   <li>
-    <a href="https://github.com/tomatooy/shareRide"> Andriod App: ShareRide</a>
+    <a href="https://github.com/tomatooy/shareRide"><h5>Andriod App: ShareRide</h5></a>
   </li>
   <li>
-    <a href="https://github.com/tomatooy/SkipNSit">Andriod App: SkipNSit</a>
+    <a href="https://github.com/tomatooy/SkipNSit"><h5>Andriod App: SkipNSit</h5></a>
   </li>
 </ul>
 <p align="left">
