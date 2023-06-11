@@ -4,7 +4,7 @@
 <p align="left">
   
 </p>
-<h3 align="left">Project I have worked on:
+<h3 align="left">Project:
 
 </h3>
 <ul>
