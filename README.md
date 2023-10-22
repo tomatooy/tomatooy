@@ -1,5 +1,5 @@
-# Hi 👋, I am Johnny Ouyang 
-#### A web developement enthusiast, student studying at NYU
+# Hi 👋, I am Zongxin (Johnny) Ouyang 
+#### An Enthusiastic software engineer, Web developer, student studying at NYU
 ## Education:
 New York University MS in Computer Engineering
 
